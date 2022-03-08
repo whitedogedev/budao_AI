@@ -27,6 +27,10 @@
 
 # 04-函数
 
+- [01-函数一.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/04-函数/01-函数一.md)
+- [02-函数二.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/04-函数/02-函数二.md)
+- [03-函数加强.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/04-函数/03-函数加强.md)
+
 # 05-文件操作
 
 # 06-面向对象
