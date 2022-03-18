@@ -33,7 +33,13 @@
 
 # 05-文件操作
 
+- [文件操作.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/05-文件操作/文件操作.md)
+
 # 06-面向对象
+
+- [01-面向对象基础.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/06-面向对象/01-面向对象基础.md)
+- [02-面向对象-继承.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/06-面向对象/02-面向对象-继承.md)
+- [03-面向对象-其他.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/06-面向对象/03-面向对象-其他.md)
 
 # 07-模块\_包\_异常
 
