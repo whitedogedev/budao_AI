@@ -48,5 +48,5 @@
 
 # 08-综合练习-学员管理系统
 
-- [02-模块_包.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/07-模块_包_异常/02-模块_包.md)
+- [面向对象版学员管理系统.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/08-综合练习-学员管理系统/面向对象版学员管理系统.md)
 

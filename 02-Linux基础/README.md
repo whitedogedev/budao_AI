@@ -6,3 +6,9 @@
 
 
 
+# 02-Linux进阶
+
+- [1-Linux进阶1.md](https://github.com/sherwinNG/budao_AI/blob/main/02-Linux基础/02-Linux进阶/1-Linux进阶1.md)
+- [2-Linux权限相关操作.md](https://github.com/sherwinNG/budao_AI/blob/main/02-Linux基础/02-Linux进阶/2-Linux权限相关操作.md)
+- [3-远程登录、远程拷贝命令.md](https://github.com/sherwinNG/budao_AI/blob/main/02-Linux基础/02-Linux进阶/3-远程登录、远程拷贝命令.md)
+- [4-编辑器 vim.md](https://github.com/sherwinNG/budao_AI/blob/main/02-Linux基础/02-Linux进阶/4-编辑器 vim.md)
