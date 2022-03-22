@@ -43,5 +43,10 @@
 
 # 07-模块\_包\_异常
 
+- [01-异常.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/07-模块_包_异常/01-异常.md)
+- [02-模块_包.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/07-模块_包_异常/02-模块_包.md)
+
 # 08-综合练习-学员管理系统
+
+- [02-模块_包.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/07-模块_包_异常/02-模块_包.md)
 
