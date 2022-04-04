@@ -52,15 +52,15 @@
 
 # 09-进程、线程和协程
 
-- [1-多任务的介绍.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/1-多任务的介绍.md)
-- [2-进程的介绍.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/2-进程的介绍.md)
-- [3-多进程使用.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/3-多进程使用.md)
-- [4-获取进程编号.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/4-获取进程编号.md)
-- [5-进程执行带有参数的任务.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/5-进程执行带有参数的任务.md)
-- [6-进程的注意点.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/6-进程的注意点.md)
-- [7.线程的介绍.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/7.线程的介绍.md)
-- [8.多线程使用.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/8.多线程使用.md)
-- [9.线程执行带有参数的任务.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/9.线程执行带有参数的任务.md)
+- [01-多任务的介绍.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/01-多任务的介绍.md)
+- [02-进程的介绍.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/02-进程的介绍.md)
+- [03-多进程使用.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/03-多进程使用.md)
+- [04-获取进程编号.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/04-获取进程编号.md)
+- [05-进程执行带有参数的任务.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/05-进程执行带有参数的任务.md)
+- [06-进程的注意点.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/06-进程的注意点.md)
+- [07.线程的介绍.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/07.线程的介绍.md)
+- [08.多线程使用.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/08.多线程使用.md)
+- [09.线程执行带有参数的任务.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/09.线程执行带有参数的任务.md)
 - [10.线程的注意点.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/10.线程的注意点.md)
 - [11.互斥锁的使用.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/11.互斥锁的使用.md)
 - [12.死锁.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/09-进程、线程和协程/12.死锁.md)
@@ -69,15 +69,15 @@
 
 # 10-闭包、装饰器
 
-- [1.闭包.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/1.闭包.md)
-- [2.闭包的使用.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/2.闭包的使用.md)
-- [3.修改闭包内使用的外部变量.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/3.修改闭包内使用的外部变量.md)
-- [4.装饰器.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/4.装饰器.md)
-- [5.装饰器的使用.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/5.装饰器的使用.md)
-- [6.通用装饰器的使用.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/6.通用装饰器的使用.md)
-- [7.多个装饰器的使用.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/7.多个装饰器的使用.md)
-- [8.带有参数的装饰器.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/8.带有参数的装饰器.md)
-- [9.类装饰器的使用.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/9.类装饰器的使用.md)
+- [01.闭包.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/01.闭包.md)
+- [02.闭包的使用.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/02.闭包的使用.md)
+- [03.修改闭包内使用的外部变量.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/03.修改闭包内使用的外部变量.md)
+- [04.装饰器.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/04.装饰器.md)
+- [05.装饰器的使用.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/05.装饰器的使用.md)
+- [06.通用装饰器的使用.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/06.通用装饰器的使用.md)
+- [07.多个装饰器的使用.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/07.多个装饰器的使用.md)
+- [08.带有参数的装饰器.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/08.带有参数的装饰器.md)
+- [09.类装饰器的使用.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/09.类装饰器的使用.md)
 
 # 11-log日志
 
