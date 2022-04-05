@@ -7,4 +7,4 @@
 - [04-Linux进阶.md](https://github.com/sherwinNG/budao_AI/blob/main/02-计算机基础/01-Linux/04-Linux进阶.md)
 - [05-Linux权限相关操作.md](https://github.com/sherwinNG/budao_AI/blob/main/02-计算机基础/01-Linux/05-Linux权限相关操作.md)
 - [06-远程登录、远程拷贝命令.md](https://github.com/sherwinNG/budao_AI/blob/main/02-计算机基础/01-Linux/06-远程登录、远程拷贝命令.md)
-- [07-编辑器 vim.md](https://github.com/sherwinNG/budao_AI/blob/main/02-计算机基础/01-Linux/07-编辑器 vim.md)
+- [07-编辑器vim.md](https://github.com/sherwinNG/budao_AI/blob/main/02-计算机基础/01-Linux/07-编辑器vim.md)
