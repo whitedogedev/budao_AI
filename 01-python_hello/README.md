@@ -78,7 +78,16 @@
 - [07.多个装饰器的使用.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/07.多个装饰器的使用.md)
 - [08.带有参数的装饰器.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/08.带有参数的装饰器.md)
 - [09.类装饰器的使用.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/09.类装饰器的使用.md)
+- [10.property属性.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/10-闭包、装饰器/10.property属性.md)
 
 # 11-log日志
 
 - [logging日志.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/11.log日志/logging日志.md)
+
+
+
+# 12-python其他知识
+
+- [01-with上下文管理器.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/12-Python其他知识/01-with上下文管理器.md)
+- [02-生成器的创建方式.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/12-Python其他知识/02-生成器的创建方式.md)
+- [03-深拷贝和浅拷贝.md](https://github.com/sherwinNG/budao_AI/blob/main/01-python_hello/12-Python其他知识/03-深拷贝和浅拷贝.md)
