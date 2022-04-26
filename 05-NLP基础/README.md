@@ -6,3 +6,12 @@
 
 - [01-文本预处理.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/02-文本处理/01-文本预处理.md)
 - [02-新闻主题分类.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/02-文本处理/02-新闻主题分类.md)
+
+# 03-经典序列模型
+
+- [01-认识HMM与CRF模型.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/03-经典序列模型/01-认识HMM与CRF模型.md)
+
+# 04-RNN及其变体
+
+- [01-RNN架构解析.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/04-RNN及其变体/01-RNN架构解析.md)
+- [02-RNN相关案例.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/04-RNN及其变体/02-RNN相关案例.md)
