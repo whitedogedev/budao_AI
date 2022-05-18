@@ -22,3 +22,10 @@
 - [02-transformer架构.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/05-Transformer/02-transformer架构.md)
 - [03-transformer案例.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/05-Transformer/03-transformer案例.md)
 
+# 06-迁移学习
+
+- [01-fasttext.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/06-迁移学习/01-fasttext.md)
+- [02-迁移学习介绍.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/06-迁移学习/02-迁移学习介绍.md)
+
+
+
