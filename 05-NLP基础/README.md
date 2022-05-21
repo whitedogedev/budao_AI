@@ -26,6 +26,13 @@
 
 - [01-fasttext.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/06-迁移学习/01-fasttext.md)
 - [02-迁移学习介绍.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/06-迁移学习/02-迁移学习介绍.md)
+- [03-bert.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/06-迁移学习/03-bert.md)
+- [04-ELMo.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/06-迁移学习/04-ELMo.md)
+- [05-GPT.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/06-迁移学习/05-GPT.md)
+
+# 07-NLP案例及优化技巧
+
+- 
 
 
 
