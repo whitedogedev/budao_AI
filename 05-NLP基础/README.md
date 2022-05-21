@@ -32,7 +32,17 @@
 
 # 07-NLP案例及优化技巧
 
-- 
+- [01-影评情感识别案例.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/07-NLP案例及优化技巧/01-影评情感识别案例.md)
+- [02-机器翻译案例.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/07-NLP案例及优化技巧/02-机器翻译案例.md)
+- [03-文本生成案例.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/07-NLP案例及优化技巧/03-文本生成案例.md)
+- [04-看图说话案例.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/07-NLP案例及优化技巧/04-看图说话案例.md)
+- [05-主流的模型优化方法.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/07-NLP案例及优化技巧/05-主流的模型优化方法.md)
+- [06-模型压缩.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/07-NLP案例及优化技巧/06-模型压缩.md)
+- [07-单机模型并行训练实现.md](https://github.com/sherwinNG/budao_AI/blob/main/05-NLP基础/07-NLP案例及优化技巧/07-单机模型并行训练实现.md)
+
+---
+
+---
 
 
 
