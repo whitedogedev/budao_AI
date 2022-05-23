@@ -30,4 +30,4 @@
 ---
 
 - [附1-完整机器学习项目的流程（拓展阅读）.md](https://github.com/sherwinNG/budao_AI/blob/main/03-人工智能概述/附1-完整机器学习项目的流程（拓展阅读）.md)
-- [附2-独立同分布IID(independent and identically distributed).md](https://github.com/sherwinNG/budao_AI/blob/main/03-人工智能概述/附2-独立同分布IID(independent and identically distributed).md)
+- [附2-独立同分布IID.md](https://github.com/sherwinNG/budao_AI/blob/main/03-人工智能概述/附2-独立同分布IID(independent and identically distributed).md)
