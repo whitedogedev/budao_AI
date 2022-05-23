@@ -11,7 +11,7 @@
 
 ---
 
-- [03-
+- [03-人工智能概述](https://github.com/sherwinNG/budao_AI/tree/main/03-人工智能概述)
 
 ---
 
