@@ -19,12 +19,12 @@
 ## 01-科学计算库环境安装与使用
 
 - [1.1库的安装.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/01-科学计算库环境安装与使用/1.1库的安装.md)
-- [1.2Jupyter Notebook使用.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/01-科学计算库环境安装与使用/1.2 Jupyter Notebook使用.md)
+- [1.2Jupyter Notebook使用.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/01-科学计算库环境安装与使用/1.2Jupyter Notebook使用.md)
 
 
 
 ## 02-Matplotlib
 
-- [2.1 Matplotlib之HelloWorld.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/02-Matplotlib/2.1 Matplotlib之HelloWorld.md)
-- [2.2 基础绘图功能 — 以折线图为例.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/02-Matplotlib/2.2 基础绘图功能 — 以折线图为例.md)
-- [2.3 常见图形绘制.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/02-Matplotlib/2.3 常见图形绘制.md)
+- [2.1Matplotlib之HelloWorld.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/02-Matplotlib/2.1Matplotlib之HelloWorld.md)
+- [2.2基础绘图功能 — 以折线图为例.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/02-Matplotlib/2.2基础绘图功能 — 以折线图为例.md)
+- [2.3常见图形绘制.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/02-Matplotlib/2.3常见图形绘制.md)
