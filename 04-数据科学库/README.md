@@ -19,12 +19,22 @@
 ## 01-科学计算库环境安装与使用
 
 - [1.1库的安装.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/01-科学计算库环境安装与使用/1.1库的安装.md)
-- [1.2Jupyter Notebook使用.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/01-科学计算库环境安装与使用/1.2Jupyter Notebook使用.md)
-
-
+- [1.2Jupyter-Notebook使用.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/01-科学计算库环境安装与使用/1.2Jupyter-Notebook使用.md)
 
 ## 02-Matplotlib
 
 - [2.1Matplotlib之HelloWorld.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/02-Matplotlib/2.1Matplotlib之HelloWorld.md)
-- [2.2基础绘图功能 — 以折线图为例.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/02-Matplotlib/2.2基础绘图功能 — 以折线图为例.md)
+- [2.2基础绘图功能—以折线图为例.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/02-Matplotlib/2.2基础绘图功能—以折线图为例.md)
 - [2.3常见图形绘制.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/02-Matplotlib/2.3常见图形绘制.md)
+
+### 03-numpy
+
+- [3.1Numpy优势.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/03-numpy/3.1Numpy优势.md)
+- [3.2N维数组-ndarray.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/03-numpy/3.2N维数组-ndarray.md)
+- [3.3基本操作.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/03-numpy/3.3基本操作.md)
+- [3.4ndarray运算.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/03-numpy/3.4ndarray运算.md)
+- [3.5数组间运算.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/03-numpy/3.5数组间运算.md)
+- [3.6数学-矩阵.md](https://github.com/sherwinNG/budao_AI/blob/main/04-数据科学库/03-numpy/3.6数学-矩阵.md)
+
+
+
