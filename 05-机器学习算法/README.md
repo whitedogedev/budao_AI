@@ -26,8 +26,8 @@
 - [1.7特征工程-特征预处理.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/01-K-近邻算法/1.7特征工程-特征预处理.md)
 - [1.8鸢尾花种类预测-流程实现.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/01-K-近邻算法/1.8鸢尾花种类预测-流程实现.md)
 - [1.9k-近邻算法总结.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/01-K-近邻算法/1.9k-近邻算法总结.md)
-- [1.10 交叉验证，网格搜索.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/01-K-近邻算法/1.10 交叉验证，网格搜索.md)
-- [1.11 预测facebook签到位置.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/01-K-近邻算法/1.11 预测facebook签到位置.md)
-- [1.12 拓展阅读：其他距离公式.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/01-K-近邻算法/1.12 拓展阅读：其他距离公式.md)
-- [1.13 知识补充：再议数据分割.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/01-K-近邻算法/1.13 知识补充：再议数据分割.md)
+- [1.10交叉验证，网格搜索.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/01-K-近邻算法/1.10交叉验证，网格搜索.md)
+- [1.11预测facebook签到位置.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/01-K-近邻算法/1.11预测facebook签到位置.md)
+- [1.12拓展阅读：其他距离公式.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/01-K-近邻算法/1.12拓展阅读：其他距离公式.md)
+- [1.13知识补充：再议数据分割.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/01-K-近邻算法/1.13知识补充：再议数据分割.md)
 
