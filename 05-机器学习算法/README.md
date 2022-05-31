@@ -31,8 +31,6 @@
 - [1.12拓展阅读：其他距离公式.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/01-K-近邻算法/1.12拓展阅读：其他距离公式.md)
 - [1.13知识补充：再议数据分割.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/01-K-近邻算法/1.13知识补充：再议数据分割.md)
 
-
-
 ## 02-线性回归
 
 - [2.1线性回归简介.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/02-线性回归/2.1线性回归简介.md)
@@ -50,8 +48,6 @@
 - [2.13拓展阅读：梯度下降法算法比较和进一步优化.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/02-线性回归/2.13拓展阅读：梯度下降法算法比较和进一步优化.md)
 - [2.14拓展阅读：维灾难.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/02-线性回归/2.14拓展阅读：维灾难.md)
 
-
-
 ## 03-逻辑回归
 
 - [3.1逻辑回归介绍.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/03-逻辑回归/3.1逻辑回归介绍.md)
@@ -60,8 +56,6 @@
 - [3.4分类评估方法.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/03-逻辑回归/3.4分类评估方法.md)
 - [3.5ROC曲线的绘制.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/03-逻辑回归/3.5ROC曲线的绘制.md)
 - [3.6知识补充：分类中解决类别不平衡问题.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/03-逻辑回归/3.6知识补充：分类中解决类别不平衡问题.md)
-
-
 
 ## 04-决策树算法
 
@@ -73,8 +67,6 @@
 - [4.6案例：泰坦尼克号乘客生存预测.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/04-决策树算法/4.6案例：泰坦尼克号乘客生存预测.md)
 - [4.7回归决策树.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/04-决策树算法/4.7回归决策树.md)
 
-
-
 ## 05-集成学习基础
 
 - [5.1集成学习算法简介.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/05-集成学习基础/5.1集成学习算法简介.md)
@@ -83,8 +75,6 @@
 - [5.4Boosting介绍.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/05-集成学习基础/5.4Boosting介绍.md)
 - [5.5GBDT介绍.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/05-集成学习基础/5.5GBDT介绍.md)
 - [5.6拓展阅读：无偏估计.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/05-集成学习基础/5.6拓展阅读：无偏估计.md)
-
-
 
 ## 06-聚类算法
 
@@ -96,4 +86,54 @@
 - [6.6特征工程-特征降维.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/06-聚类算法/6.6特征工程-特征降维.md)
 - [6.7案例：探究用户对物品类别的喜好聚类.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/06-聚类算法/6.7案例：探究用户对物品类别的喜好聚类.md)
 - [6.8算法选择指导.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/06-聚类算法/6.8算法选择指导.md)
+
+## 07-朴素贝叶斯
+
+- [7.1朴素贝叶斯算法简介.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/07-朴素贝叶斯/7.1朴素贝叶斯算法简介.md)
+- [7.2概率基础复习.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/07-朴素贝叶斯/7.2概率基础复习.md)
+- [7.3案例：商品评论情感分析.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/07-朴素贝叶斯/7.3案例：商品评论情感分析.md)
+- [7.4朴素贝叶斯算法总结.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/07-朴素贝叶斯/7.4朴素贝叶斯算法总结.md)
+
+## 08-支持向量机
+
+- [8.1SVM算法简介.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/08-支持向量机/8.1SVM算法简介.md)
+- [8.2SVM算法api初步使用.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/08-支持向量机/8.2SVM算法api初步使用.md)
+- [8.3SVM算法原理.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/08-支持向量机/8.3SVM算法原理.md)
+- [8.4SVM的损失函数.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/08-支持向量机/8.4SVM的损失函数.md)
+- [8.5SVM的核方法.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/08-支持向量机/8.5SVM的核方法.md)
+- [8.6SVM回归.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/08-支持向量机/8.6SVM回归.md)
+- [8.7SVM算法api再介绍.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/08-支持向量机/8.7SVM算法api再介绍.md)
+- [8.8SVM案例实践.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/08-支持向量机/8.8SVM案例实践.md)
+- [8.9SVM总结.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/08-支持向量机/8.9SVM总结.md)
+- [8.10拓展阅读：向量与矩阵的范数.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/08-支持向量机/8.10拓展阅读：向量与矩阵的范数.md)
+- [8.11拓展阅读：朗格朗日乘子法举例.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/08-支持向量机/8.11拓展阅读：朗格朗日乘子法举例.md)
+
+## 09-EM算法
+
+- [9.1初识EM算法.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/09-EM算法/9.1初识EM算法.md)
+- [9.2EM算法介绍.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/09-EM算法/9.2EM算法介绍.md)
+- [9.3EM算法实例.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/09-EM算法/9.3EM算法实例.md)
+- [9.4拓展阅读：极大似然函数取对数的原因.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/09-EM算法/9.4拓展阅读：极大似然函数取对数的原因.md)
+
+## 10-HMM模型
+
+- [10.1马尔科夫链.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/10-HMM模型/10.1马尔科夫链.md)
+- [10.2HMM简介.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/10-HMM模型/10.2HMM简介.md)
+- [10.3HMM模型基础.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/10-HMM模型/10.3HMM模型基础.md)
+- [10.4前向后向算法评估观察序列概率.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/10-HMM模型/10.4前向后向算法评估观察序列概率.md)
+- [10.5维特比算法解码隐藏状态序列.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/10-HMM模型/10.5维特比算法解码隐藏状态序列.md)
+- [10.6鲍姆-韦尔奇算法简介.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/10-HMM模型/10.6鲍姆-韦尔奇算法简介.md)
+- [10.7HMM模型API介绍.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/10-HMM模型/10.7HMM模型API介绍.md)
+
+## 11-集成学习进阶
+
+- [11.1xgboost算法原理.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/11-集成学习进阶/11.1xgboost算法原理.md)
+- [11.2xgboost算法api介绍.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/11-集成学习进阶/11.2xgboost算法api介绍.md)
+- [11.3xgboost案例介绍.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/11-集成学习进阶/11.3xgboost案例介绍.md)
+- [11.4otto案例介绍--xgboost实现.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/11-集成学习进阶/11.4otto案例介绍--xgboost实现.md)
+- [11.5lightGBM算法原理.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/11-集成学习进阶/11.5lightGBM算法原理.md)
+- [11.6lightGBM算法api介绍.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/11-集成学习进阶/11.6lightGBM算法api介绍.md)
+- [11.7lightGBM案例介绍.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/11-集成学习进阶/11.7lightGBM案例介绍.md)
+- [11.8《绝地求生》玩家排名预测.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/11-集成学习进阶/11.8《绝地求生》玩家排名预测.md)
+- [11.9拓展学习：stacking算法基本思想.md](https://github.com/sherwinNG/budao_AI/blob/main/05-机器学习算法/11-集成学习进阶/11.9拓展学习：stacking算法基本思想.md)
 
