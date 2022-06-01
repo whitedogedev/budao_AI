@@ -44,7 +44,7 @@
 
 - [4.1Venv介绍.md](https://github.com/sherwinNG/budao_AI/blob/main/附1-python环境搭建/04-Venv/4.1Venv介绍.md)
 - [4.2Venv的使用.md](https://github.com/sherwinNG/budao_AI/blob/main/附1-python环境搭建/04-Venv/4.2Venv的使用.md)
-- [4.3在 PyCharm 中配置当前项目虚拟环境.md](https://github.com/sherwinNG/budao_AI/blob/main/附1-python环境搭建/04-Venv/4.3在 PyCharm 中配置当前项目虚拟环境.md)
+- [4.3在PyCharm中配置当前项目虚拟环境.md](https://github.com/sherwinNG/budao_AI/blob/main/附1-python环境搭建/04-Venv/4.3在PyCharm中配置当前项目虚拟环境.md)
 
 
 
