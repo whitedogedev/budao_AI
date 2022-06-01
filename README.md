@@ -27,5 +27,11 @@
 
 ----
 
+---
+
+- [附1-python环境搭建](https://github.com/sherwinNG/budao_AI/tree/main/附1-python环境搭建)
+
+---
+
 以终为始！
 
