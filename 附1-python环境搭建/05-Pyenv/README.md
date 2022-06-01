@@ -1,4 +1,4 @@
-# 4.1 Pyenv，让你轻松切换各种python版本
+# Pyenv，让你轻松切换各种python版本
 
 人生苦短，我用python...
 
