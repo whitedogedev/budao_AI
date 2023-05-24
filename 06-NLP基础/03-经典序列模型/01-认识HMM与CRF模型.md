@@ -106,7 +106,7 @@
 #### 3.3 对比（HMM & MEMM & CRF）
 
 ```text
-HMM vs. MEMM vs. CRF
+HMM vs. MEMM(最大熵马尔可夫) vs. CRF
 将三者放在一块做一个总结：
 
 HMM -> MEMM： HMM模型中存在两个假设：一是输出观察值之间严格独立，二是状态的转移过程中当前状态只与前一状态有关。
